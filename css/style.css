@@ -1,0 +1,38 @@
+
+nav.navbar-default {
+  transition: all 0.4s ease;
+}
+
+nav.navbar-default.shrink {
+  background: linear-gradient(to left, #fe3578, #5ca3fe);
+  padding: 3px;
+
+}
+
+
+nav.navbar-default.shrink .navbar-brand img{
+  width: 50px;
+  color: white;
+  filter: brightness(100);
+}
+
+nav.navbar-default.shrink a {
+  color: white  !important;
+  font-weight: bold  !important;
+}
+
+nav.navbar-default.shrink.navbar-default .navbar-nav > .active > a,
+nav.navbar-default.shrink.navbar-default .navbar-nav > .active > a:focus{
+  color: white !important;
+  font-weight: bold !important;
+}
+
+nav.navbar.shrink.navbar-default .navbar-nav a:hover:before, nav.navbar.shrink.navbar-default .navbar-nav  li:hover > a:before, nav.navbar.shrink.navbar-default .navbar-nav .active > a:before {
+      visibility: visible!important;
+      -webkit-transform: scaleX(1)!important;
+      transform: scaleX(1)!important;
+      background-color: white !important;
+}
+nav.typed.shink{
+      color: white;
+}
