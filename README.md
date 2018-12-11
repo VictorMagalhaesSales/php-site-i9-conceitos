@@ -6,6 +6,6 @@
 * Sistema de chat criado do zero(inacabado).
 
 ### Fotos
-![github-small](https://uploaddeimagens.com.br/images/001/773/219/full/Screenshot_1.png?1544497814)
+![github-small](50%https://uploaddeimagens.com.br/images/001/773/219/full/Screenshot_1.png?1544497814)
 
 ![github-small](https://user-images.githubusercontent.com/20648428/49776562-3e6a6e80-fcdb-11e8-976f-b951daf4e88e.png)
