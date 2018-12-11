@@ -2,7 +2,7 @@
 
 ### Detalhes do site
 * Site de compras online(pagamento não online);
-* Ferramentas: HTML, PhP e MySQL;
+* Ferramentas: HTML, CSS(Com bootstrap), PhP e MySQL;
 * Sistema de chat criado do zero(inacabado).
 
 ### Algumas fotos
