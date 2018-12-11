@@ -6,5 +6,4 @@
 * Sistema de chat criado do zero(inacabado).
 
 ### Fotos
-![Início](https://uploaddeimagens.com.br/imagens/screenshot_1-png-dcf68049-ee4e-4af1-84cc-7a194672be77)
-![Início: sobre]()
+![Início](https://uploaddeimagens.com.br/images/001/773/219/full/Screenshot_1.png?1544497814)
