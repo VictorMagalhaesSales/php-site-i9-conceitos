@@ -1,6 +1,7 @@
 # Site i9 Conceitos
 
 ### Detalhes do site
+* Finalidade: trabalho escolar;
 * Site de compras online(pagamento não online);
 * Ferramentas: HTML, CSS(Com bootstrap), PhP e MySQL;
 * Sistema de chat criado do zero(inacabado).
